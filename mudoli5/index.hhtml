@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leson7</title>
+</head>
+<body>
+    
+<form>
+
+<label for="lastname">first Name:</label> <br>
+<input type="text" id="firtsname" name="lastname"> <br> <br>
+
+
+<label for="last name ">Last Namw:</label> <br>
+<input type="text" id= "Last name"  name="Last name"> <br> <br>
+
+
+
+<label for="email">Last Namw:</label> <br>
+<input type="text" id="email" name="email"> <br> <br>
+
+
+<label for="Password">Last Namw:</label> <br>
+<input type="text" id="Password" name="Password"> <br> <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
