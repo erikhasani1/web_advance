@@ -1,0 +1,134 @@
+
+
+
+
+
+
+
+#unordered{
+    list-style-type: square;
+    background-color: aqua;
+    padding: 20px;
+    border: 3px dashed black;
+    margin: 20px;
+}
+
+
+#order{
+    list-style-type: upper-roman;
+    background-color:aquamarine;
+    padding: 20px;
+    border: 3px dashed black;
+    margin: 20px;
+}
+
+
+li{
+    background-color: rgb(154, 201, 201);
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th, td{
+    border:2px dotted blue;
+    padding: 15px; 
+}
+th{
+    background-color: black;
+    color: red;
+}
+
+td{
+    background-color: rgb(211, 192, 192);
+    color: red;
+}
+
+#text1{
+    overflow: scroll;
+    background-color: rgb(211, 192, 192);
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
